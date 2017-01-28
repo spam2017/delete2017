@@ -729,6 +729,6 @@ elseif msg.content_.ID == "MessageGame" then
 
 end
 
--- http://permag.ir
--- @permag_ir
--- @permag_bots
+-- http://deleteTeam.org
+-- @Deleted_TM
+-- @delete_TG
