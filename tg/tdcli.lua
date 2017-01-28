@@ -1,6 +1,6 @@
 --[[
-@permag_bots
-http://permag.ir
+@delete_TG
+@delete_TG
    This program is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
    the Free Software Foundation; either version 2 of the License, or
@@ -2705,6 +2705,6 @@ M.sendForwarded = sendForwarded
 
 return M
 
--- http://permag.ir
--- @permag_ir
--- @permag_bots
+-- @delete_TG
+-- @ramin_bnd 
+-- @ramin_bnd 
