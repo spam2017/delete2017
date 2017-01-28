@@ -29,7 +29,7 @@ chmod +x delete.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/spam2017/delete2017.git && cd delete && chmod +x delete.sh && ./delete.sh install && ./delete.sh
+cd $HOME && git clone https://github.com/spam2017/delete2017.git && cd delete2017 && chmod +x delete.sh && ./delete.sh install && ./delete.sh
 ```
 
 * * *
