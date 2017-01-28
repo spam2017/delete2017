@@ -84,18 +84,18 @@ function create_config( )
     "filter",
 	"lock_fosh"
  },
-    sudo_users = {123456789},
+    sudo_users = {240689544},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》permag.ir v2
+    info_text = [[》deleteTeam.org v2
 
 
 🔰Our channel :
-》@permag_bots《
+》@Deleted_TM《
 
 🔰Our website :
-》http://permag.ir
+》http://deleteTeam.org
 ]],
   }
   serialize_to_file(config, './data/config.lua')
