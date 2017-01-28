@@ -21,7 +21,7 @@
 # Let's install the bot.
 cd $HOME
 git clone https://github.com/spam2017/delete2017.git
-cd BDReborn
+cd delete2017
 chmod +x delete.sh
 ./delete.sh install
 ./delete.sh # Enter a phone number & confirmation code.
